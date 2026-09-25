@@ -1,5 +1,9 @@
 # VaporScan
 
+[![CI](https://github.com/tonnychiulab/VaporScan/actions/workflows/ci.yml/badge.svg)](https://github.com/tonnychiulab/VaporScan/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/github/license/tonnychiulab/VaporScan)](./LICENSE)
+
 **暫存檔案上傳與病毒掃描 API** — 檔案像蒸氣一樣，掃完即散，從不落地。
 
 [English README](./README.md)

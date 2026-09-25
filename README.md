@@ -1,5 +1,9 @@
 # VaporScan
 
+[![CI](https://github.com/tonnychiulab/VaporScan/actions/workflows/ci.yml/badge.svg)](https://github.com/tonnychiulab/VaporScan/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/github/license/tonnychiulab/VaporScan)](./LICENSE)
+
 **A temp-file-upload virus-scanning API — files scan and vanish like vapor, never touching disk.**
 
 [正體中文說明](./README.zh-TW.md)
